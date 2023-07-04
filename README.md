@@ -33,9 +33,9 @@ In this section, we will outline the customer journey from ordering to product d
 During the Pre-Purchase Phase, customers were further categorized into two groups: call evaluation and chat evaluation. Each customer interacted with 14 different agents to assess their performance. Throughout the phone calls and chat sessions, customers asked five questions related to their product of interest, evaluating the agent's proficiency as they progressed through the journey until the problem was resolved.
 
 * Evaluation Criteria:  
-The table below outlines the evaluation criteria utilized during the Purchase Stage.  
-  * Call:
-  
+The table below outlines the evaluation criteria utilized during the Purchase Stage.
+
+  * Call:  
 | Category | Sorting Category | Measurement Details |  
 | ---- | ------------- | ---------------- |  
 |**Response Rate**| Active Listening, Knowledge | Ability of agent to accurately acknowledge and understand the reason for call |  
@@ -45,11 +45,13 @@ The table below outlines the evaluation criteria utilized during the Purchase St
 | **Communication** | Soft Skills | How well agent and customer can communicate |  
 | **Politeness** | Soft Skills | How polite the agent is towards customer |  
 | **Repetititon** | Soft Skills | Agent doesn't ask repeated information towards customer that customer already given |  
-| **Proper Hold** | Performance Skills | Ask Permission and have hold music (vs silence). Agent should come back and check customer every 2 mins |
-| **Call to Hold Ratio** | Performance Skills | Total hold time Vs. total duration of call |
-| **Total Call Duration** | Performance Skills | Total time spent calling |
-| **Total Hold Duration**| Performance Skills | Total amount of time the agent was on hold during the call |
-| **Hold Number**| Performance Skills | The number of times the agent held |
-| **Evaluator Statisfaction(ES)**| Evaluator Statisfaction | Overall satisfaction by evaluator considering every aspect of the evaluation as a real customer |
+| **Proper Hold** | Performance Skills | Ask Permission and have hold music (vs silence). Agent should come back and check customer every 2 mins |  
+| **Call to Hold Ratio** | Performance Skills | Total hold time Vs. total duration of call |  
+| **Total Call Duration** | Performance Skills | Total time spent calling |  
+| **Total Hold Duration**| Performance Skills | Total amount of time the agent was on hold during the call |  
+| **Hold Number**| Performance Skills | The number of times the agent held |  
+| **Evaluator Statisfaction(ES)**| Evaluator Statisfaction | Overall satisfaction by evaluator considering every aspect of the evaluation as a real customer |  
+
+
 
 
