@@ -34,16 +34,17 @@ During the Pre-Purchase Phase, customers were further categorized into two group
 
 * Evaluation Criteria:  
 The table below outlines the evaluation criteria utilized during the Purchase Stage.  
-  * Call:  
-| Category | Sorting Category | Measurement Details |
-| ---- | ------------- | ---------------- |
-|**Response Rate**| Active Listening, Knowledge | Ability of agent to accurately acknowledge and understand the reason for call |
-| **Response Accuracy** | Active Listening, Knowledge | Accuracy of agent response compared to official published information |
-| **Response Number** | Active Listening, Knowledge | Total number of questions answered by agent out of 5 questions |
-| **English Ability** | Soft Skills | Agent's English accent severity |
-| **Communication** | Soft Skills | How well agent and customer can communicate |
-| **Politeness** | Soft Skills | How polite the agent is towards customer |
-| **Repetititon** | Soft Skills | Agent doesn't ask repeated information towards customer that customer already given |
+  * Call:
+  
+| Category | Sorting Category | Measurement Details |  
+| ---- | ------------- | ---------------- |  
+|**Response Rate**| Active Listening, Knowledge | Ability of agent to accurately acknowledge and understand the reason for call |  
+| **Response Accuracy** | Active Listening, Knowledge | Accuracy of agent response compared to official published information |  
+| **Response Number** | Active Listening, Knowledge | Total number of questions answered by agent out of 5 questions |  
+| **English Ability** | Soft Skills | Agent's English accent severity |  
+| **Communication** | Soft Skills | How well agent and customer can communicate |  
+| **Politeness** | Soft Skills | How polite the agent is towards customer |  
+| **Repetititon** | Soft Skills | Agent doesn't ask repeated information towards customer that customer already given |  
 | **Proper Hold** | Performance Skills | Ask Permission and have hold music (vs silence). Agent should come back and check customer every 2 mins |
 | **Call to Hold Ratio** | Performance Skills | Total hold time Vs. total duration of call |
 | **Total Call Duration** | Performance Skills | Total time spent calling |
