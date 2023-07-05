@@ -1,5 +1,7 @@
 # Analyzing Agent Response Attitude in Customer E-commerce Journeys: A Data-driven Approach for Enhanced Customer Satisfaction  
 
+## Project Description
+
 ### Project Overview  
 
 The objective of this project was to analyze the response attitude of Agents throughout the customer's E-commerce site journey, starting from their initial interaction to the point of product ordering. The project employed a systematic approach, involving the creation of a dataset through the collection and organization of actual data while assuming the role of dummy customers. The dataset served as the foundation for conducting an in-depth analysis, culminating in the creation of a comprehensive dashboard for result visualization.  
@@ -22,7 +24,7 @@ To facilitate a comprehensive understanding of the findings, we employed data vi
 The project successfully analyzed the Agent's response attitude throughout the customer's E-commerce site journey, employing a data-driven approach. By assuming the role of dummy customers and collecting actual data, we created a comprehensive dataset that served as the foundation for a thorough analysis. Through the utilization of a well-designed dashboard, we effectively visualized the results, enabling stakeholders to comprehend the findings and make informed decisions. The project's outcomes provide valuable insights into the Agent's performance, offering opportunities for enhancement and improvement in customer satisfaction.  
 <br>
 
-## Detailed Project Description  
+## Project Details  
 
 In this section, we will outline the customer journey from ordering to product delivery, dividing it into two distinct phases: the Pre-Purchase Phase and the Purchase Phase. The Pre-Purchase Phase involves customer inquiries about products and services of interest to the agent before placing an order. On the other hand, the Purchase Phase encompasses customer queries related to ordering, delivery, and post-order support until the product is received. The analysis included a total of 28 dummy customers, each purchasing different products, such as mobile phones, tablets, watches, laptops, monitors, TVs, projectors, refrigerators, ranges, washers, dryers, dishwashers, and other electrical appliances.
 
@@ -119,6 +121,7 @@ The Purchase Stage primarily involved customers engaging with agents through cha
 <br>
 
 ## Project Results  
+
 The results of this project consist of several files, each providing valuable insights and information. They are outlined as follows:
 * **Excel File:** This comprehensive Excel file encompasses various components, including the evaluation criteria, details about the dummy customers, evaluation results, and associated figures. It serves as a repository of crucial data and analysis, enabling stakeholders to delve into the project findings with ease.
 * **100-Page Report:** The project report provides an in-depth account of the entire process and highlights the key outcomes. It meticulously documents the methodology, data collection and organization, analysis techniques, and the resulting insights. This detailed report is a valuable resource for gaining a comprehensive understanding of the project's findings.
