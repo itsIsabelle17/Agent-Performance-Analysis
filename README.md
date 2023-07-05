@@ -35,7 +35,8 @@ During the Pre-Purchase Phase, customers were further categorized into two group
 * Evaluation Criteria:  
 The table below outlines the evaluation criteria utilized during the Purchase Stage.
 
-* Call:  <br>
+* Call:
+
 | Category | Sorting Category | Measurement Details |  
 | ---- | ------------- | ---------------- |  
 |**Response Rate**| Active Listening, Knowledge | Ability of agent to accurately acknowledge and understand the reason for call |  
